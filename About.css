@@ -1,0 +1,50 @@
+html
+{
+  background-color: #7a6c96;
+}
+
+.Nav-bar
+{
+  position: 0;
+  border: 6px solid #06948f;
+  background-color: #28a67a;
+  width:720px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.Main
+{
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+}
+
+.About
+{
+  font-size:30px;
+  color: black;
+  margin-left:30px;
+  text-decoration: none;
+}
+
+.contact
+{
+  font-size:30px;
+  color: black;
+  margin-left:30px;
+  text-decoration: none;
+}
+
+.About-div
+{
+  font-size: 40px;
+  border: 6px solid grey;
+  background-color: lightgrey;
+  display:block;
+  padding:5px;
+  margin: 0 auto;
+  width: 700px;
+  height: 520px;
+  margin-top: 50px;
+}

@@ -1,0 +1,49 @@
+html
+{
+  background-color: #7a6c96;
+}
+
+.Nav-bar
+{
+  position: 0;
+  border: 6px solid #06948f;
+  background-color: #28a67a;
+  width:720px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.Main
+{
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+}
+
+.About
+{
+  font-size:30px;
+  color: black;
+  margin-left:30px;
+  text-decoration: none;
+}
+
+.contact
+{
+  font-size:30px;
+  color: black;
+  margin-left:30px;
+  text-decoration: none;
+}
+
+.PFP
+{
+  width: 400px;
+}
+
+.joemama
+{
+  border: 6px solid grey;
+  width: 400px;
+  margin-left: 60%;
+}
